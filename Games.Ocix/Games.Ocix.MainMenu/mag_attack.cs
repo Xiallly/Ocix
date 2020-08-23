@@ -10,7 +10,7 @@ namespace Games.Ocix.Characters
         {
             if (functionName == "Location")
             {
-                if (functionValue == "")
+                //if (functionValue == "")
 
             }       
 

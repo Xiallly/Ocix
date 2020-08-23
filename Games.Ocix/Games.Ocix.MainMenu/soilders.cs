@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Games.Ocix.MainMenu
 {
-    public partial class Form1 : Form
+    public partial class soilders : Form
     {
-        public Form1()
+        public soilders()
         {
             InitializeComponent();
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

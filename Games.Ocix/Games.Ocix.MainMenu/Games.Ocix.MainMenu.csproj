@@ -55,6 +55,12 @@
     <Compile Include="mag_attack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="soilders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soilders.Designer.cs">
+      <DependentUpon>soilders.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -66,7 +72,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="soilders.resx">
+      <DependentUpon>soilders.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,6 +89,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantasy-characters-2d-game-sprite-male-and-female-heroes-computer-soldiers-rpg-shooter-mascots-soldiers-knights-wizards-vector_80590-5679.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantasy-characters-2d-game-sprite-male-and-female-heroes-computer-soldiers-rpg-shooter-mascots-soldiers-knights-wizards-vectorвы_80590-5679.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
