@@ -73,6 +73,17 @@ namespace Games.Ocix.MainMenu.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap fantasy_characters_2d_game_sprite_male_and_female_heroes_computer_soldiers_rpg_shooter_mascots_soldiers_knighsdsts_wizards_vector_80590_5679 {
+            get {
+                object obj = ResourceManager.GetObject("fantasy-characters-2d-game-sprite-male-and-female-heroes-computer-soldiers-rpg-sh" +
+                        "ooter-mascots-soldiers-knighsdsts-wizards-vector_80590-5679", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fantasy_characters_2d_game_sprite_male_and_female_heroes_computer_soldiers_rpg_shooter_mascots_soldiers_knights_wizards_vector_80590_5679 {
             get {
                 object obj = ResourceManager.GetObject("fantasy-characters-2d-game-sprite-male-and-female-heroes-computer-soldiers-rpg-sh" +
