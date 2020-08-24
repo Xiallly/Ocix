@@ -93,5 +93,17 @@
   <ItemGroup>
     <None Include="Resources\fantasy-characters-2d-game-sprite-male-and-female-heroes-computer-soldiers-rpg-shooter-mascots-soldiers-knighsdsts-wizards-vector_80590-5679.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-diamond-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-money-bag-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-expensive-27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-diamond-27 %281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
